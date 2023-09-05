@@ -1,0 +1,35 @@
+/* this is a comment in css */
+body{
+	font-family: roboto,sans-serif;
+	
+}
+.w{
+	color: black;
+	text-align: left;
+}
+.f{
+	text-align: center;
+}
+.c{
+	text-align: center;
+}
+.img{
+	text-align: right;
+	width: 400px;
+}
+.d{
+	color: black;
+}
+.imgg{
+width: 425px;
+text-align: left;
+}
+.u{
+	background-color: #7F7F7F;
+	padding: 1px;
+	text-align: center;
+}
+.y{
+	color:black;
+	text-align: center;
+}
